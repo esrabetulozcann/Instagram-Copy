@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787520960098",
+    "project_id": "javainstagram-7f195",
+    "storage_bucket": "javainstagram-7f195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787520960098:android:d3908415c87d38a753033b",
+        "android_client_info": {
+          "package_name": "com.example.javainstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWw20-EHb7wQWuYtOHx0pCapGogpcamE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
